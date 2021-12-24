@@ -1,2 +1,7 @@
 # cra-rtk-sass-boilerplate
-Created with CodeSandbox
+
+### React Boilerplate setup for quick prototyping.
+Includes  -
+- create-react-app defaults
+- SaSS package
+- @reduxjs/toolkit package
